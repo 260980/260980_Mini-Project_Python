@@ -1,0 +1,4 @@
+Age Gender  Income  Policy  Tax
+35	female	1000000	yes	49500.0
+50	male	100000	no	No TAX
+65	male	20000000	yes	5880000.0
