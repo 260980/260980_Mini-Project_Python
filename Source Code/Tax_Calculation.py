@@ -104,3 +104,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Pytest
+def test_method():
+    assert tax_payment(35, 'female', 1000000) == 50000
+    assert tax_payment(65, 'male', 20000000) == 6000000
